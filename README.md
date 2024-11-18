@@ -1,30 +1,33 @@
 ## Hi there 👋
 
-Hello, I'm Naman Gupta, a data enthusiast with a passion for turning data into actionable insights and innovative solutions. With over 3 years of experience in various data roles, I thrive on solving complex problems and driving data-driven decision-making.
+Hello, I'm Naman Gupta, a data enthusiast passionate about transforming data into actionable insights and optimized solutions. With 4+ years of experience in the data space, I specialize in architecting scalable data pipelines, optimizing ETL processes, and building impactful business intelligence solutions to drive data-driven decision-making.
 
 ### Technical Expertise 💼 
 #### Programming & Scripting:
 
-- Python: Advanced proficiency in data analysis, machine learning, and automation.
-- SQL: Skilled in writing complex queries for data manipulation, reporting and database design.
-- PySpark: Experienced in large-scale data processing and analysis.
-- R: Competent in statistical analysis and data visualization.
+- Python: Advanced proficiency in data analysis, automation, and building scalable data solutions.
+- SQL: Expertise in writing complex queries, performance tuning, and database design.
+- PySpark & Scala: Applied in distributed computing with Apache Spark and Hadoop.
+- Shell Scripting: Automating workflows for data ingestion and processing.
 
-#### Data Engineering & Analytics:
+#### Data Engineering & Big Data:
 
-- ETL/ELT Pipelines: Proficient in designing and implementing scalable data pipelines using Azure Data Factory, Databricks, and Apache Airflow.
-- Data Warehousing: Experienced in creating and optimizing data warehouses with Snowflake, BigQuery, and Azure SQL.
-- Data Visualization: Skilled in crafting insightful dashboards and reports using Power BI and Tableau.
+- ETL & ELT Pipelines: Experienced in building robust pipelines using Azure Data Factory, Databricks, Airflow, and Talend.
+- Data Warehousing: Skilled in Snowflake, Redshift, BigQuery, Azure Synapse, and Hive for efficient data storage and retrieval.
+- Data Streaming & Real-Time Processing: Hands-on with Apache Kafka and Zookeeper for streaming large-scale data in real time.
+- Data Modeling: Expertise in designing dimensional models for analytics and reporting.
 
-#### Machine Learning & AI:
+#### Analytics & Business Intelligence:
 
-- Model Development: Proficient in building predictive models using Scikit-Learn, NumPy, and Pandas.
-- NLP & Gen AI: Familiar with natural language processing and generative AI techniques for text analysis and synthesis.
+- Data Visualization: Proficient in Power BI, Tableau, and SSRS to create insightful dashboards and reports.
+- Data Science & Visualization Tools: Experienced with Pandas, NumPy, scikit-learn, Matplotlib, Seaborn, and Plotly for exploratory analysis and predictive modeling.
+- Data Validation & Governance: Developed frameworks with Great Expectations to ensure data quality and compliance.
 
 #### Cloud & DevOps:
 
-- Cloud Platforms: Hands-on experience with Azure, GCP and AWS for data storage, processing, and analytics.
-- CI/CD & Version Control: Proficient in using Azure DevOps, Git, and GitHub for code integration, deployment, and collaboration.
+- Cloud Platforms: Extensive use of Azure, AWS, and GCP for scalable data processing solutions.
+- CI/CD & Containerization: Skilled in Docker, Azure DevOps, and Git for version control and continuous deployment.
+- Agile Methodologies: Applied Scrum & Kanban techniques using JIRA and Azure DevOps for project management and delivery.
 
 #### Soft Skills:
 
